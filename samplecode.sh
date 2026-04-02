@@ -1,3 +1,3 @@
 echo "welcome to the demo project"
 
-echo "Lucky "
+echo "LUCKY FULARA"
